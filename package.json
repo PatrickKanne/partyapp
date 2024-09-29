@@ -1,0 +1,28 @@
+{
+  "name": "partyapp",
+  "version": "1.0.0",
+  "description": "helps creatin parties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PatrickKanne/partyapp.git"
+  },
+  "keywords": [
+    "party",
+    "organizing"
+  ],
+  "author": "Patrick Kanne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickKanne/partyapp/issues"
+  },
+  "homepage": "https://github.com/PatrickKanne/partyapp#readme",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "express": "^4.21.0",
+    "express-handlebars": "^8.0.1"
+  }
+}
